@@ -1,20 +1,34 @@
-# Babua-LMS-Hackathon
+# Babua LMS – Idea & Approach
 
-Babua LMS – Idea
+Learning content today is already free.  
+The real problem is that students **start without a plan** and **forget whatever they study**.
 
-Content is already free.
-The real problem is no planning and no revision.
+So instead of building another LMS that sells courses, this project focuses on **two core ideas**:
 
-So instead of building another LMS that sells courses, I focused on two things only:
+## 1. Plan Before You Start
+Students should clearly know:
+- How much time they can give
+- How long the journey will take
+- Whether their goal is realistic
 
-Helping students plan realistically before they start
+Planning should be **simple and free**, not a paid feature.
 
-Helping them not forget what they study
+## 2. Don’t Forget After You Learn
+In DSA, finishing lectures means nothing if concepts are forgotten later.
 
-Learning stays 100% free.
-Any paid part is optional and only for accountability or time-saving insights, never for accessing knowledge.
+This approach treats forgetting as a system problem and focuses on:
+- Problem-first revision
+- Structured recall
+- Retention over completion
 
-Due to limited time, I focused on idea and approach, not implementation.
+## Babua Philosophy
+- Learning stays **100% free**
+- No locked content
+- No certificate-driven value
+- Paid features (if any) are optional and only for accountability or time-saving insights
 
-The goal is simple:
-Don’t teach more. Help students forget less.
+## Note
+Due to limited time, the focus was on **ideation and approach**, not implementation.
+
+**Goal:**  
+> Don’t teach more. Help students forget less.
